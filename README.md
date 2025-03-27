@@ -99,7 +99,7 @@ git branch -D <branch-name>
 git push origin --delete <branch-name>
 ```
 
-### show tracked remote branch
+### show tracked remote branch (show the upstream branches)
 ```bash
 git branch -vv
 ```
