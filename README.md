@@ -227,6 +227,11 @@ git merge --abort
 git rebase --abort
 ```
 
+## push after a rebase
+```bash
+git push --force-with-lease
+```
+
 
 # a typical worflow when working on a feature branch
 
